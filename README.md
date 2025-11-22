@@ -1,4 +1,4 @@
-# Food Waste Redistribution Network
+# Food Redistribution Network
 
 A modern web application designed to connect food donors with those in need, reducing food waste while feeding communities. This platform enables users to donate surplus food and request available food items in real-time through an intuitive map and list-based interface.
 
